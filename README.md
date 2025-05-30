@@ -53,8 +53,8 @@ This dataset is a classic benchmark for seasonal time series forecasting.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/mphfernando/stock_market_analysis.git
-   cd stock_market_analysis
+   git clone https://github.com/mphfernando/airpassenger_analysis.git
+   cd airpassenger_analysis
    ```
 
 2. **Install Requirements**
